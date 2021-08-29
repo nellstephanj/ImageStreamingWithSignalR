@@ -1,0 +1,21 @@
+.image-stream {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  text-align: center;
+
+  button{
+    margin: auto;
+    padding: 8px;
+  }
+
+  img {
+    margin: auto;
+    border: 1px solid;
+    display: grid;
+    place-items: center;
+    width: 800px;
+    height: 800px;
+  }
+}
+
+

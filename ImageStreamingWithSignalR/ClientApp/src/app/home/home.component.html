@@ -1,0 +1,11 @@
+<div class="image-stream">
+  <h1>Image Streaming With SignalR</h1>
+
+  <button *ngIf="!this.startedStreaming && !this.signalRService.image" class="btn btn-primary" (click)="startStreaming()">Start Streaming</button>
+  <br>
+  <img *ngIf="!this.startedStreaming"
+    alt="Place Holder Image"
+    src="https://via.placeholder.com/800"
+  />
+  <img *ngIf="this.startedStreaming && this.signalRService.image"  alt="Streamed image Preview" [src]="this.signalRService.image" />
+</div>
