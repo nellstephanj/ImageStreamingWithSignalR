@@ -12,8 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="654a9c70-5d11-4e77-b295-dbc4dc06f259" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ImageStreamingWithSignalR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ImageStreamingWithSignalR/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImageStreamingWithSignalR/ClientApp/src/app/app.server.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImageStreamingWithSignalR/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ImageStreamingWithSignalR/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageStreamingWithSignalR/ClientApp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ImageStreamingWithSignalR/ClientApp/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,22 +42,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
-    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.ImageStreamingWithSignalR: Launch API &amp; Angular">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.ImageStreamingWithSignalR: Launch API Only">
     <configuration name="ImageStreamingWithSignalR" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/ImageStreamingWithSignalR/ImageStreamingWithSignalR.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net5.0" />
@@ -152,7 +141,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
